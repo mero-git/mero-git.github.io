@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2rem; line-height: 1.6; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Hello, I'm [Your Name]</h1>
+  <p>Welcome to my personal website! I'm currently looking for opportunities in [industry/role].</p>
+  <h2>About Me</h2>
+  <p>Write a short bio here.</p>
+  <h2>Projects / Resume</h2>
+  <p>Link to your resume or GitHub projects here.</p>
+  <h2>Contact</h2>
+  <p>Email: your.email@example.com</p>
+</body>
+</html>
