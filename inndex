@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mero Git - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    .section {
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mero Git</h1>
+  <p><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a> |
+     <strong>GitHub:</strong> <a href="https://github.com/mero-git" target="_blank">github.com/mero-git</a>
+  </p>
+
+  <div class="section">
+    <h2>About Me</h2>
+    <p>I’m a motivated and curious junior developer currently seeking opportunities in web development or software engineering. I enjoy solving problems, learning new technologies, and working on projects that make an impact.</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Git & GitHub</li>
+      <li>Python (basic)</li>
+      <li>Problem-solving, teamwork, communication</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Portfolio Website</strong> — A personal site showcasing my projects and resume (this site!)</li>
+      <li><strong>To-Do App</strong> — Simple web app to manage daily tasks (link: <a href="#">coming soon</a>)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p>Self-taught web developer with coursework in HTML, CSS, and JavaScript. Continuously learning through online platforms and hands-on projects.</p>
+  </div>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>Email me at <a href="mailto:your.email@example.com">your.email@example.com</a> — I'd love to connect!</p>
+  </div>
+</body>
+</html>
